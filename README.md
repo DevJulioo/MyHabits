@@ -32,3 +32,15 @@ O **My Habits** é uma aplicação mobile desenvolvida em React Native para auxi
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SeuUsuario/MyHabits.git](https://github.com/SeuUsuario/MyHabits.git)
+
+2. Instale as dependências
+   ```bash
+   npm install
+3. Inicie o projeto
+   ```bash
+   npx expo start
+4. Escaneie o QR Code com o app Expo Go no seu celular
+
+## 👨‍💻 Desenvolvedor
+# Júlio César de Souza Moura
+   

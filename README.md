@@ -41,6 +41,6 @@ O **My Habits** é uma aplicação mobile desenvolvida em React Native para auxi
    npx expo start
 4. Escaneie o QR Code com o app Expo Go no seu celular
 
-## 👨‍💻 Desenvolvedor
-# Júlio César de Souza Moura
+##👨‍💻 Desenvolvedor
+Júlio César de Souza Moura
    
